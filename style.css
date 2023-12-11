@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    background-color: azure;
+    background-image: url(img/img_trafic_routier.jpg) ;
+    background-position: center;
+    background-repeat: repeat;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+header {
+    background-color: RGBA(0,0,0,0.40);
+    padding-left: 2px;
+}
+
+section {
+    background-color: RGBA(0,0,0,0.40);
+    border: solid black;
+    padding-left: 45%;
+}
+
+.titreMeteo {
+    color: white;
+}
+.heure {
+    color: white
+}
+.date {
+    color:white
+}
+.infosMeteo {
+    color:white;
+    font-size: xx-large;
+}
